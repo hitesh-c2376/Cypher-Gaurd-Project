@@ -1,7 +1,0 @@
-flask
-flask_sqlalchemy
-flask_jwt_extended
-flask-cors
-bcrypt
-python-dotenv
-pytz
